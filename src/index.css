@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+input:focus, select:focus, textarea:focus {
+  outline: none !important;
+  border-color: #18181b !important;
+  box-shadow: none !important;
+}
